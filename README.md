@@ -1,6 +1,7 @@
 # CONEXA-CHALLENGE
 
-Hola! ¿Cómo estan? Les explico un poco como estructuré el proyecto y como usarlo ya que no creé la parte del front end.
+Hola! ¿Cómo estan?
+Les explico un poco como estructuré el proyecto y como usarlo ya que no creé la parte del front end.
 
 En este repositorio hay 2 modulos distintos (como fue pedido): "login-services" y "business-services"
 
@@ -38,10 +39,14 @@ En resumen, pueden enviar "POST" requests a: "http://localhost:5000/api/signup" 
 
 
 
-Cualquier consulta, codigo que no entiendan, o lo que sea, pueden escribirme a mi mail franckennicolas@gmail.com, o a mi celular +542944959344.
+Se que todavia me queda un largo camino por recorrer, pero me apasiona aprender y me encantaría ser parte del Team CONEXA 💪🏼
+
+
+
+Cualquier consulta o código que no entiendan pueden contactarme via mail franckennicolas@gmail.com, o por celular +542944959344.
 Espero que puedan probarlo y comentarme que les pareció!
 
-Saludos, Nicolas.
+Saludos, Nicolas 🙌🏼
 
 
 
