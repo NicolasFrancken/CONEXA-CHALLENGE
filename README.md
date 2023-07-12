@@ -1,6 +1,6 @@
 # CONEXA-CHALLENGE
 
-Hola! Les explico un poco como estructuré el proyecto y como usarlo ya que no creé la parte del front end.
+Hola! ¿Cómo estan? Les explico un poco como estructuré el proyecto y como usarlo ya que no creé la parte del front end.
 
 En este repositorio hay 2 modulos distintos (como fue pedido): "login-services" y "business-services"
 
